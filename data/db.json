@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Do something nice for someone you care about",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Memorize the poem and recite",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Watch a classic movie",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Watch a documentary",
+      "completed": false
+    }
+  ]
+}
